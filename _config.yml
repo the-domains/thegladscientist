@@ -1,0 +1,28 @@
+name: thegladscientist
+favicon: null
+layout_spectrum: 0.4970544942189008
+typography_spectrum: 0.5806123684160411
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.665003920905292
+  lightness: 0.5842123064212501
+  saturation: 0.23543896595947444
+  rhythmicContrast: 0.13611853239126503
+purpose: []
