@@ -4,7 +4,7 @@
         <description><![CDATA[The Musings of a Glad Scientist]]></description>
         <link>https://thegrid.ai/thegladscientist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 17:07:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 17:08:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegladscientist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/thegladscientist/crafting-a-musical-setnext-week-i-will-present-my-first-audi/index.html</link>
             <guid isPermaLink="false">dbfe82f5-a041-4df1-91ba-d7324417b344</guid>
             <pubDate>Sat, 19 Mar 2016 17:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Wow this screen is bright.</p>]]></description>
-            <link>https://thegrid.ai/thegladscientist/0c9a3bdd-06a9-4db8-8b0b-3669a52208a8/index.html</link>
-            <guid isPermaLink="false">0c9a3bdd-06a9-4db8-8b0b-3669a52208a8</guid>
-            <pubDate>Sat, 19 Mar 2016 16:29:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
