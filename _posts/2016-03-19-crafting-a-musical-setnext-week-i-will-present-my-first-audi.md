@@ -3,27 +3,26 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "Crafting a Musical SetNext week I will present my first audio-only set as The Glad Scientist at The Meraki Gathering. I've spent a lot of time over the past month and a half thinking about what I want to do to curate a unique, thoughtful, and personal presentation of both what I produce and what influences me musically.\_"
-datePublished: '2016-03-19T17:02:17.173Z'
-dateModified: '2016-03-19T17:02:08.378Z'
+description: "Crafting a Musical SetNext week I will present my first audio-only set as The Glad Scientist at The Meraki Gathering. I've spent a lot of time over the past month and a half thinking about what I want to do to curate a unique, thoughtful, and personal presentation."
+datePublished: '2016-03-19T17:07:59.359Z'
+dateModified: '2016-03-19T17:02:25.289Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-19-crafting-a-musical-setnext-week-i-will-present-my-first-audi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-crafting-a-musical-setnext-week-i-will-present-my-first-audi.md
-published: true
 url: crafting-a-musical-setnext-week-i-will-present-my-first-audi/index.html
 _type: Article
 
 ---
 Crafting a Musical Set  
-  
 Next week I will present my first audio-only set as The Glad Scientist at The Meraki Gathering. I've spent a lot of time over the past month and a half thinking about what I want to do to curate a unique, thoughtful, and personal presentation.
 
 So I decided to play a morning set, a "wake up set" of sorts, to summon the hungover and brainfried into a realm of ambient clouds that sprout soothing colors of all kinds...of course with a cheektongued poking at the cerebrals to promote comfortability in uncomfortability (one of my specialties).
